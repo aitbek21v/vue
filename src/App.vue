@@ -45,7 +45,6 @@ export default {
 
   simulateLoading();
 }
-
 };
 </script>
 

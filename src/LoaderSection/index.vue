@@ -31,7 +31,6 @@ export default {
 }
 
 .loader-text {
-
   transform: translate(-50%, -50%);
   color:#5d0cc7;
   text-align: center;
@@ -40,5 +39,5 @@ export default {
   font-weight: 400;
   line-height: normal;
   text-transform: capitalize;
-}
+ }
 </style>
